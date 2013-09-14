@@ -1,0 +1,504 @@
+TTestProj
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Info.plist TestProj/TestProj-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/TestProj.app/ResourceRules.plist
+cProcessPCH /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o /Users/petesalvo/Desktop/TestProj/TestProj/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o /Users/petesalvo/Desktop/TestProj/TestProj/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj normal armv7
+cLd /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj normal armv7s
+cCreateUniversalBinary /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj normal "armv7 armv7s"
+cGenerateDSYMFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj
+cCopyStringsFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.png
+cCopyPNGFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default@2x.png TestProj/Default@2x.png
+cCopyPNGFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default-568h@2x.png TestProj/Default-568h@2x.png
+cCompileStoryboard /Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/MainStoryboard.storyboard
+cProcessProductPackaging "/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision" /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision" /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+cTouch /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+cCodeSign /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+cValidate /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c0000000052334AAA00000000000001A7
+t1379093162
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c0000000052334AAA00000000000001E5
+t1379093162
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052334AAC0000000000322700
+t1379093164
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052334AAD000000000062AD10
+t1379093165
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000052334AAC00000000000015F7
+t1379093164
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000052334AAD0000000000000E8D
+t1379093165
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052334AB000000000011BCDF0
+t1379093168
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c0000000052334AB30000000000001B73
+t1379093171
+s7027
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.h
+c0000000052334C330000000000000114
+t1379093555
+s276
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m
+c0000000052334C3300000000000007D6
+t1379093555
+s2006
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/Default-568h@2x.png
+c0000000051B1755C00000000000048A2
+t1370584412
+s18594
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/Default.png
+c0000000051B1755C000000000000198C
+t1370584412
+s6540
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/Default@2x.png
+c0000000051B1755C0000000000003EEB
+t1370584412
+s16107
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/TestProj-Prefix.pch
+c0000000052334C33000000000000013F
+t1379093555
+s319
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/ViewController.h
+c0000000052334C3300000000000000D6
+t1379093555
+s214
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m
+c0000000052334C3300000000000001EC
+t1379093555
+s492
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/InfoPlist.strings
+c0000000052334C33000000000000002D
+t1379093555
+s45
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/MainStoryboard.storyboard
+c0000000052334CAF0000000000000B69
+t1379093679
+s2921
+
+N/Users/petesalvo/Desktop/TestProj/TestProj/main.m
+c0000000052334C33000000000000014F
+t1379093555
+s335
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default.png
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default@2x.png
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Info.plist
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/PkgInfo
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/ResourceRules.plist
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj.LinkFileList
+c000000005233954E000000000000016A
+t1379112270
+s362
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj.LinkFileList
+c000000005233954E000000000000016D
+t1379112270
+s365
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+t2
+s0
+
+N/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision
+c00000000523361E100000000000029AF
+t1379099105
+s10671
+
+N/var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.pth
+t2
+s0
+
+NTestProj/TestProj-Info.plist
+c0000000052334C3300000000000004C9
+t1379093555
+s1225
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd1afb9cecce3b741^6d1fd2cecce3b741^---0#1#0#--18"Check dependencies36"2C3884C4-D65F-4C97-8279-D8320F0079FB-
+
+CCodeSign /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+s400805075.028930
+e400805075.236037
+r1
+xCodeSign
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"CodeSign build/Release-iphoneos/TestProj.appea7907d3cce3b741^ec6c3cd3cce3b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/0000000000000000^829"CodeSign build/Release-iphoneos/TestProj.app    cd /Users/petesalvo/Desktop/TestProj    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /usr/bin/codesign --force --sign 227b97a44696563971ef887a4dafff63942197f4 --resource-rules=/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/ResourceRules.plist --entitlements /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app36"4840A92B-936D-403D-A932-801C03DFFA77-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805072.852298
+e400805073.010594
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o
+x/Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.mf146dad0cce3b741^b3b502d1cce3b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m0000000000000000^3328"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o TestProj/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o36"266B34F0-7B06-4661-AE55-A91CFAADD35E-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805072.852303
+e400805073.001563
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o
+x/Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m5952dad0cce3b741^eb7000d1cce3b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m0000000000000000^3346"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o TestProj/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o36"D24495D3-1069-4D05-9E46-65688BE79DE2-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o /Users/petesalvo/Desktop/TestProj/TestProj/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805072.851730
+e400805072.995722
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o
+x/Users/petesalvo/Desktop/TestProj/TestProj/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/petesalvo/Desktop/TestProj/TestProj/main.mab24dad0cce3b741^fef1fed0cce3b741^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/main.m0000000000000000^3286"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o TestProj/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/main.m -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o36"DC85F35F-A4CF-44EC-8D13-DBF60DF6B512-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805072.996589
+e400805073.098450
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m2252ffd0cce3b741^3c3319d1cce3b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m0000000000000000^3335"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o TestProj/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/AppDelegate.m -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o36"8252B7B3-9538-4722-BA2C-1785889D883C-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805072.997583
+e400805073.055110
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o
+x/Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.mcf87ffd0cce3b741^091b0ed1cce3b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m0000000000000000^3353"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o TestProj/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/ViewController.m -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o36"6A25B937-782F-44FA-9A3A-FDE85FC1DF7A-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o /Users/petesalvo/Desktop/TestProj/TestProj/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805072.853246
+e400805072.995193
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o
+x/Users/petesalvo/Desktop/TestProj/TestProj/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/petesalvo/Desktop/TestProj/TestProj/main.m7096dad0cce3b741^fbcbfed0cce3b741^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/main.m0000000000000000^3293"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o TestProj/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/main.m -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o36"616DD183-CA63-43AE-B3E1-C1ECE65F32DB-
+
+CCompileStoryboard /Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/MainStoryboard.storyboard
+s400805073.810958
+e400805074.947516
+r1
+xCompileStoryboard
+x/Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/MainStoryboard.storyboard
+o2013-09-13 15:44:34.534 Interface Builder Cocoa Touch Tool[5174:14603] CFPreferences: user home directory at file://localhost/Users/petesalvo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard TestProj/en.lproj/MainStoryboard.storyboarde5b8cfd1cce3b741^7c9bf2d2cce3b741^-243"2013-09-13 15:44:34.534 Interface Builder Cocoa Touch Tool[5174:14603] CFPreferences: user home directory at file://localhost/Users/petesalvo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/MainStoryboard.storyboard0000000000000000^908"CompileStoryboard TestProj/en.lproj/MainStoryboard.storyboard    cd /Users/petesalvo/Desktop/TestProj    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj/MainStoryboard.storyboardc /Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"B26ACD8D-CC8F-4693-9FAF-E3AD8058A107-
+
+CCopyPNGFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default-568h@2x.png TestProj/Default-568h@2x.png
+s400805073.783374
+e400805074.124324
+r1
+xCopyPNGFile
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default-568h@2x.png
+xTestProj/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile build/Release-iphoneos/TestProj.app/Default-568h@2x.png TestProj/Default-568h@2x.png2ca0c8d1cce3b741^f6d31fd2cce3b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/Default-568h@2x.png0000000000000000^648"CopyPNGFile "build/Release-iphoneos/TestProj.app/Default-568h@2x.png" "TestProj/Default-568h@2x.png"    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/petesalvo/Desktop/TestProj/TestProj/Default-568h@2x.png" "/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default-568h@2x.png"36"A65806B7-962A-47EA-A47E-201B93FDA41A-
+
+CCopyPNGFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.png
+s400805073.783151
+e400805074.051502
+r1
+xCopyPNGFile
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default.png
+xTestProj/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.pnge89fc8d1cce3b741^a9310dd2cce3b741^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/Default.png0000000000000000^608"CopyPNGFile build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.png    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/petesalvo/Desktop/TestProj/TestProj/Default.png /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default.png36"B7877C32-AE51-4FE4-810F-DAC845CEA60E-
+
+CCopyPNGFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default@2x.png TestProj/Default@2x.png
+s400805073.783365
+e400805074.100010
+r1
+xCopyPNGFile
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default@2x.png
+xTestProj/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile build/Release-iphoneos/TestProj.app/Default@2x.png TestProj/Default@2x.pngcb9ec8d1cce3b741^7aa819d2cce3b741^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/Default@2x.png0000000000000000^628"CopyPNGFile "build/Release-iphoneos/TestProj.app/Default@2x.png" "TestProj/Default@2x.png"    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/petesalvo/Desktop/TestProj/TestProj/Default@2x.png" "/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Default@2x.png"36"4167414B-2466-4D3A-8B82-4D0FD96E998D-
+
+CCopyStringsFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings
+s400805073.783148
+e400805073.809538
+r1
+xCopyStringsFile
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings
+xTestProj/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TestProj/en.lproj/InfoPlist.stringse694c8d1cce3b741^f33dcfd1cce3b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/en.lproj/InfoPlist.strings0000000000000000^599"CopyStringsFile build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/en.lproj -- TestProj/en.lproj/InfoPlist.strings36"19F2E968-2454-4AF4-A284-E3F8A5BB728D-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/TestProj.app/ResourceRules.plist
+s400805070.827571
+e400805070.832302
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xbuild/Release-iphoneos/TestProj.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphoneos/TestProj.app/ResourceRules.plistceffd3cecce3b741^9d11d5cecce3b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/ResourceRules.plist000000000080d041^895"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/TestProj.app/ResourceRules.plist    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app36"937AEA6A-F883-4A08-A971-DD3C23B8612D-
+
+CCreateUniversalBinary /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj normal "armv7 armv7s"
+s400805073.720186
+e400805073.724839
+r1
+xCreateUniversalBinary
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Create universal binary /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProjff77b8d1cce3b741^ac8db9d1cce3b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj000000000080d041^704"CreateUniversalBinary build/Release-iphoneos/TestProj.app/TestProj normal "armv7 armv7s"    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    lipo -create /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj -output /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj36"5BF97FF8-1DA2-4BC9-8F89-B62C1A32F78F-
+
+CGenerateDSYMFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj
+s400805073.731597
+e400805073.775138
+r1
+xGenerateDSYMFile
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM425abbd1cce3b741^3f6fc6d1cce3b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM000000000080d041^636"GenerateDSYMFile build/Release-iphoneos/TestProj.app.dSYM build/Release-iphoneos/TestProj.app/TestProj    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/TestProj -o /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app.dSYM36"6958FB91-EA3B-420B-BF74-1ACDB5E86D05-
+
+CLd /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj normal armv7
+s400805073.017724
+e400805073.713312
+r1
+xLd
+x/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProjc9aa04d1cce3b741^55a0b6d1cce3b741^---0#0#0#--1149"Ld build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj normal armv7    cd /Users/petesalvo/Desktop/TestProj    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -filelist /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj36"6BF66BC0-9158-4BE7-BE39-093B4671838A-
+
+CLd /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj normal armv7s
+s400805073.104930
+e400805073.713317
+r1
+xLd
+x/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj3def1ad1cce3b741^4a9bb6d1cce3b741^---0#0#0#--1154"Ld build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj normal armv7s    cd /Users/petesalvo/Desktop/TestProj    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -filelist /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj36"10474AF7-7B64-422B-9CB2-5630238B5C61-
+
+CProcessInfoPlistFile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Info.plist TestProj/TestProj-Info.plist
+s400805070.827473
+e400805070.831458
+r1
+xProcessInfoPlistFile
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Info.plist
+xTestProj/TestProj-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process TestProj/TestProj-Info.plistf8fdd3cecce3b741^c2dad4cecce3b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/TestProj-Info.plist0000000000000000^769"ProcessInfoPlistFile build/Release-iphoneos/TestProj.app/Info.plist TestProj/TestProj-Info.plist    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility TestProj/TestProj-Info.plist -genpkginfo /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/ResourceRules.plist -o /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/Info.plist36"484E2345-946B-4111-9937-C16F8B7E67B9-
+
+CProcessPCH /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805070.839665
+e400805072.844899
+r1
+xProcessPCH
+x/var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.pth
+xTestProj/TestProj-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestProj/TestProj-Prefix.pch392ad7cecce3b741^ed49d8d0cce3b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/TestProj-Prefix.pch0000000000000000^3375"ProcessPCH /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/TestProj-Prefix.pch -o /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dnbnlbauxffmbbehhfprwyavjpak/TestProj-Prefix.pch.d36"244109A0-9BD5-4699-852D-A50979D3E4FB-
+
+CProcessPCH /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400805070.839671
+e400805072.844894
+r1
+xProcessPCH
+x/var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.pth
+xTestProj/TestProj-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestProj/TestProj-Prefix.pcha229d7cecce3b741^1a4fd8d0cce3b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/petesalvo/Desktop/TestProj/TestProj/TestProj-Prefix.pch0000000000000000^3378"ProcessPCH /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/petesalvo/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.dia -c /Users/petesalvo/Desktop/TestProj/TestProj/TestProj-Prefix.pch -o /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/7b/t93bkm457yl7b8h3j3h82kwr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProj-Prefix-dqylsmiomksrgzeixobkgryrkckd/TestProj-Prefix.pch.d36"4761200A-DD45-4786-AD13-3F3C4C7B1D17-
+
+CProcessProductPackaging "/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision" /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+s400805074.977994
+e400805074.981137
+r1
+xProcessProductPackaging
+x/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection199"ProcessProductPackaging "/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision" build/Release-iphoneos/TestProj.app/embedded.mobileprovisioncc79fad2cce3b741^b647fbd2cce3b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision0000000000000000^725"ProcessProductPackaging "/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision" build/Release-iphoneos/TestProj.app/embedded.mobileprovision    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-productPackagingUtility "/Users/petesalvo/Library/MobileDevice/Provisioning Profiles/5C90C84D-CA3B-4CA2-B988-CEA533D801A9.mobileprovision" -o /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/embedded.mobileprovision36"53E3AB5B-E740-49CB-BEF7-4B46C623FAE0-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+s400805075.017035
+e400805075.020972
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection212"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcentd17604d3cce3b741^136305d3cce3b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent000000000080d041^777"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/petesalvo/Desktop/TestProj/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent36"9A2CA476-E6B1-49DC-9428-37F75472BDD1-
+
+CTouch /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+s400805074.988631
+e400805075.009014
+r1
+xTouch
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app342dfdd2cce3b741^9f5902d3cce3b741^---0#0#0#--410"Touch build/Release-iphoneos/TestProj.app    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app36"4D55BF4B-D61D-440B-9F34-22F20AE9E15A-
+
+CValidate /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+s400805075.243952
+e400805075.740579
+r1
+xValidate
+x/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Validate build/Release-iphoneos/TestProj.appa9893ed3cce3b741^0b97bdd3cce3b741^-255"warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)1(21%IDEActivityLogMessage2@202" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)192"IPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57400805075#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#16"Validate Warning--0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app/0000000000000000^554"Validate build/Release-iphoneos/TestProj.app    cd /Users/petesalvo/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/petesalvo/Desktop/TestProj/build/Release-iphoneos/TestProj.app36"63AC7844-2A35-4918-B9BB-E34AAD4B300B-
+
