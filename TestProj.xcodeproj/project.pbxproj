@@ -260,10 +260,14 @@
 		84BC5A2717E383B300D98979 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Andy Friedlander (5RRG47UGK3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Andy Friedlander (5RRG47UGK3)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestProj/TestProj-Prefix.pch";
 				INFOPLIST_FILE = "TestProj/TestProj-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "4350B450-94A0-4855-9B61-F888EF3EABF2";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4350B450-94A0-4855-9B61-F888EF3EABF2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -271,10 +275,14 @@
 		84BC5A2817E383B300D98979 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Andy Friedlander (5RRG47UGK3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Andy Friedlander (5RRG47UGK3)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestProj/TestProj-Prefix.pch";
 				INFOPLIST_FILE = "TestProj/TestProj-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "4350B450-94A0-4855-9B61-F888EF3EABF2";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4350B450-94A0-4855-9B61-F888EF3EABF2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -298,6 +306,7 @@
 				84BC5A2817E383B300D98979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
